@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinAndroid</string>
+    <string name="count">Count</string>
+    <string name="cat_age">Age</string>
+    <string name="cat_weight">Weight</string>
+    <string name="cat_name">Cat\'s name</string>
+    <string name="counter">Counter:</string>
+</resources>
